@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About
+title: Hi!
 permalink: /about/
 ---
 
+안녕하세요 반갑습니다.
+/*
 ## Theme Monos
 > Simple and lightweight theme for Jekyll
 
@@ -31,3 +33,4 @@ date_format: "%Y-%M-%D" //and date format.
 ![alt text](/public/img/screenshot-m1.png)
 #### Page - Articles
 ![alt text](/public/img/screenshot-m2.png)
+*/
